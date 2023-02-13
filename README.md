@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Hi
+
+## React Router and hooks
+I will be using `React Router` and its hooks, `useHistory`, `useParams`, and `useLocation`, in this exercise to enhance my experience and make navigating through the application easier.
+
+<br />
+<hr />
+<br />
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
