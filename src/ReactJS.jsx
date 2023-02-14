@@ -7,7 +7,8 @@ const ReactJS = () => {
 
 	const handleOnClick = () => {
 		const location = {
-			pathname: "/redux",
+			state: "Hellow World",
+			pathname: `/redux`,
 		};
 
 		navigate(location);
